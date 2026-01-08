@@ -1,0 +1,256 @@
+{
+  "version": 1,
+  "base_track": "Dark Red",
+  "base_artist": "Steve Lacy",
+  "createdAt": "2026-01-08T18:27:51.188419Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dark Red",
+      "artist": "Steve Lacy",
+      "has_synced": true,
+      "path": "select/01_Dark_Red_Steve_Lacy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dark Red",
+      "artist": "Steve Lacy",
+      "has_synced": true,
+      "path": "select/02_Dark_Red_Steve_Lacy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dark Red",
+      "artist": "Steve Lacy",
+      "has_synced": true,
+      "path": "select/03_Dark_Red_Steve_Lacy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dark Red",
+      "artist": "Steve Lacy",
+      "has_synced": true,
+      "path": "select/04_Dark_Red_Steve_Lacy.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dark Red Desire",
+      "artist": "Arven",
+      "has_synced": true,
+      "path": "select/05_Dark_Red_Desire_Arven.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dark Red",
+      "artist": "Steve Lacy",
+      "has_synced": true,
+      "path": "select/06_Dark_Red_Steve_Lacy.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "dark red - slowed + reverb",
+      "artist": "slō feat. twilight & Tazzy",
+      "has_synced": true,
+      "path": "select/07_dark_red_-_slowed_+_reverb_slō_feat._twilight_&_Tazzy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Steve Lacy - dark red (overlapped/slowed&reverb)",
+      "artist": "Rosiee",
+      "has_synced": true,
+      "path": "select/08_Steve_Lacy_-_dark_red_(overlapped_slowed&reverb)_Rosiee.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dark Red",
+      "artist": "Steve Lacy",
+      "has_synced": true,
+      "path": "select/09_Dark_Red_Steve_Lacy.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dark Red",
+      "artist": "Steve Lacy",
+      "has_synced": true,
+      "path": "select/10_Dark_Red_Steve_Lacy.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "dark red - slowed + reverb",
+      "artist": "slō",
+      "has_synced": true,
+      "path": "select/11_dark_red_-_slowed_+_reverb_slō.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dark Red Sped Up",
+      "artist": "Marc7",
+      "has_synced": true,
+      "path": "select/12_Dark_Red_Sped_Up_Marc7.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "dark red - slowed + reverb",
+      "artist": "slo, Twilight, Tazzy",
+      "has_synced": true,
+      "path": "select/13_dark_red_-_slowed_+_reverb_slo,_Twilight,_Tazzy.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dark Red",
+      "artist": "Steve Lacy",
+      "has_synced": true,
+      "path": "select/14_Dark_Red_Steve_Lacy.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Dark Red",
+      "artist": "Steve Lacy",
+      "has_synced": true,
+      "path": "select/15_Dark_Red_Steve_Lacy.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Dark Red",
+      "artist": "Steve Lacy",
+      "has_synced": true,
+      "path": "select/16_Dark_Red_Steve_Lacy.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Dark Horse",
+      "artist": "Katy Perry",
+      "has_synced": true,
+      "path": "select/17_Dark_Horse_Katy_Perry.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Iris in the Dark",
+      "artist": "Just A Gent feat. McCall",
+      "has_synced": true,
+      "path": "select/18_Iris_in_the_Dark_Just_A_Gent_feat._McCall.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Iris in the Dark",
+      "artist": "Just a Gent, McCall",
+      "has_synced": true,
+      "path": "select/19_Iris_in_the_Dark_Just_a_Gent,_McCall.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Dark Bars",
+      "artist": "Miranda Lambert",
+      "has_synced": false,
+      "path": "select/20_Dark_Bars_Miranda_Lambert.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Dark Bars (Album)",
+      "artist": "Miranda Lambert",
+      "has_synced": false,
+      "path": "select/21_Dark_Bars_(Album)_Miranda_Lambert.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Drinkin' Dark Whiskey",
+      "artist": "Gary Allan",
+      "has_synced": true,
+      "path": "select/22_Drinkin'_Dark_Whiskey_Gary_Allan.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Drinkin' Dark Whiskey (Album Version)",
+      "artist": "Gary Allan",
+      "has_synced": true,
+      "path": "select/23_Drinkin'_Dark_Whiskey_(Album_Version)_Gary_Allan.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Fishin' in the Dark",
+      "artist": "The Nitty Gritty Dirt Band",
+      "has_synced": true,
+      "path": "select/24_Fishin'_in_the_Dark_The_Nitty_Gritty_Dirt_Band.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Fishin' in the Dark (Album Version)",
+      "artist": "The Nitty Gritty Dirt Band",
+      "has_synced": true,
+      "path": "select/25_Fishin'_in_the_Dark_(Album_Version)_The_Nitty_Gritty_Dirt_Band.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Fishing In The Dark (Remastered 2001)",
+      "artist": "The Nitty Gritty Dirt Band",
+      "has_synced": true,
+      "path": "select/26_Fishing_In_The_Dark_(Remastered_2001)_The_Nitty_Gritty_Dirt_Band.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Racing The Dark",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/27_Racing_The_Dark_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Smoke Rings in the Dark",
+      "artist": "Gary Allan",
+      "has_synced": true,
+      "path": "select/28_Smoke_Rings_in_the_Dark_Gary_Allan.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Tall Dark Stranger",
+      "artist": "Buck Owens",
+      "has_synced": true,
+      "path": "select/29_Tall_Dark_Stranger_Buck_Owens.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Dark Paradise",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/30_Dark_Paradise_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dark Red",
+      "artist": "Steve Lacy",
+      "has_synced": false,
+      "path": "select/pl_01_Dark_Red_Steve_Lacy.txt"
+    }
+  ]
+}
